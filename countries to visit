@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>countries i would love to visit</title>
+</head>
+<body>
+<h1>My Dream countries</h1>
+<p>There are a lot of places I love and would really want to explore in the nearest future,but this are the short list of countries I would like to visit<br>
+    </p>
+    <ol>
+        <li>
+            I would love to visit Hong Kong,<em><b>China</b></em></li>
+            <img src="amsterdam holland.jpg"alt="amsterdam holland.jpg"></imgsrc><br>
+        <li><b>Dubai,United Arab Emirates</b></li>
+        <img src="Dubai united arab emirates.jpg"alt="Dubai United Arab emirates.jpg"></imgsrc><br>
+        <li><b>Kuala Lumar,Malaysia</b></li>
+        <img src="kuala lumar,Malaysia.jpg"alt="Kuala lumar,Malaysia.jpg"></imgsrc><br>
+        <li><b>Mumbai,India</b></li>
+        <img src="Mumbai.india.jpg"alt="Mumbai.India.jpg"></imgsrc><br>
+        <li><b>Seoul,South Korea</b></li>
+        <img src="seoul,south korea.jpg"alt="Seoul,South Korea.jpg"></imgsrc><br>
+        <li><b>United Kingdom,London</b></li>
+        <img src="united kingdom,london.jpg"alt="United Kingdom,london.jpg"></imgsrc><br>
+        <li><b>Amsterdam Holland</b></li>
+        <img src="amsterdam holland.jpg"alt="amsterdam holland.jpg"></imgsrc><br>
+        <li><b>Singapore</b></li>
+        <img src="Singapore.jpg"alt="Singapore.jpg"></imgsrc><br>
+        <li><b>Thailand</li></b>
+        <img src="Thailand.jpg"alt="Thailand.jpp"></imgsrc><br>
+    </ol>
+    <p>And wow that would be a whole bunch of <em>adventures</em>,see you there</p>
+    <B>BYE</B>
+    </body>
+    </html>
